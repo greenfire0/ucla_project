@@ -1,0 +1,339 @@
+{
+  "games": [
+    {
+      "champion": "bloodhound",
+      "drop_coordinates": [ 1178, 655 ],
+      "duration": 347.74,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/20-01-12-CyNffXNAbEa9Tiy7JVT4AM.frames.json",
+      "key": "inf_super/2021-07-20-01-05-LDiUCr",
+      "kills": 0,
+      "knockdowns": 0,
+      "landed": "Gardens",
+      "match_id": "2021-07-20-01-06/BUGSWITHDRUGS",
+      "placed": 9,
+      "player_name": "INF_Super",
+      "rank": {
+        "rank": "platinum",
+        "rp": null,
+        "rp_change": null,
+        "tier": "III"
+      },
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": 6,
+      "squadmate_names": [ null, null ],
+      "squadmates": [ null, null ],
+      "timestamp": 1626743148.35,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-20-01-05-LDiUCr.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 0,
+          "name": "R-301",
+          "time_held": 258.8
+        },
+        {
+          "knockdowns": 0,
+          "name": "EVA-8 Auto",
+          "time_held": 287.1
+        }
+      ]
+    },
+    {
+      "champion": "bloodhound",
+      "drop_coordinates": [ 432, 1101 ],
+      "duration": 123.31,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/20-01-03-8ZJT55PpFUuVebyFyY6XAk.frames.json",
+      "key": "inf_super/2021-07-20-01-01-2R97Vr",
+      "kills": 1,
+      "knockdowns": 2,
+      "landed": "Ocean",
+      "match_id": "2021-07-20-01-01/ECO_ANDY",
+      "placed": 18,
+      "player_name": "INF_Super",
+      "rank": {
+        "rank": "platinum",
+        "rp": null,
+        "rp_change": null,
+        "tier": "III"
+      },
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": 3,
+      "squadmate_names": [ null, null ],
+      "squadmates": [ null, null ],
+      "timestamp": 1626742885.66,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-20-01-01-2R97Vr.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 2,
+          "name": "Volt",
+          "time_held": 48.5
+        },
+        {
+          "knockdowns": 0,
+          "name": "Hemlock",
+          "time_held": 52.5
+        }
+      ]
+    },
+    {
+      "champion": "bloodhound",
+      "drop_coordinates": [ 463, 813 ],
+      "duration": 964.25,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/20-00-58-kArhkZ6aMqPkcqn7jhh4jc.frames.json",
+      "key": "inf_super/2021-07-20-00-41-JkKS5K",
+      "kills": 1,
+      "knockdowns": 1,
+      "landed": "Autumn Estates",
+      "match_id": "2021-07-20-00-41/TY5OO6OO",
+      "placed": 6,
+      "player_name": "INF_Super",
+      "rank": {
+        "rank": "platinum",
+        "rp": null,
+        "rp_change": null,
+        "tier": "I"
+      },
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": 3,
+      "squadmate_names": [ null, null ],
+      "squadmates": [ null, null ],
+      "timestamp": 1626741696,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-20-00-41-JkKS5K.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 1,
+          "name": "Spitfire",
+          "time_held": 807.5
+        },
+        {
+          "knockdowns": 0,
+          "name": "Alternator",
+          "time_held": 16.2
+        }
+      ]
+    },
+    {
+      "champion": "bloodhound",
+      "drop_coordinates": [ 524, 906 ],
+      "duration": 552.18,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/20-00-39-ADiKghPyr7cfVcMHLdVoWY.frames.json",
+      "key": "inf_super/2021-07-20-00-30-QeAje9",
+      "kills": 2,
+      "knockdowns": 2,
+      "landed": "Broken Coast South",
+      "match_id": "2021-07-20-00-30/SUNSHINE",
+      "placed": 9,
+      "player_name": "INF_Super",
+      "rank": {
+        "rank": "platinum",
+        "rp": null,
+        "rp_change": null,
+        "tier": "III"
+      },
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": 7,
+      "squadmate_names": [ null, null ],
+      "squadmates": [ null, null ],
+      "timestamp": 1626741029.19,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-20-00-30-QeAje9.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 1,
+          "name": "R-301",
+          "time_held": 477.4
+        },
+        {
+          "knockdowns": 1,
+          "name": "EVA-8 Auto",
+          "time_held": 473.3
+        }
+      ]
+    },
+    {
+      "champion": "bloodhound",
+      "drop_coordinates": [ 315, 554 ],
+      "duration": 185.86,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/20-00-28-83t5DWbWQwVeDxGig3oYGc.frames.json",
+      "key": "inf_super/2021-07-20-00-24-32HXAd",
+      "kills": 0,
+      "knockdowns": 0,
+      "landed": "Oasis",
+      "match_id": null,
+      "placed": 14,
+      "player_name": "INF_Super",
+      "rank": {
+        "rank": "platinum",
+        "rp": null,
+        "rp_change": null,
+        "tier": "III"
+      },
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": null,
+      "squadmate_names": [ "P", null ],
+      "squadmates": [ "bangalore", null ],
+      "timestamp": 1626740688.13,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-20-00-24-32HXAd.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 0,
+          "name": "Flatline",
+          "time_held": 101.1
+        },
+        {
+          "knockdowns": 0,
+          "name": "Wingman",
+          "time_held": 117.2
+        }
+      ]
+    },
+    {
+      "champion": "bloodhound",
+      "drop_coordinates": [ 760, 1011 ],
+      "duration": 927.73,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/20-00-18-5caNspLzecuhYVmfd3JraR.frames.json",
+      "key": "inf_super/2021-07-20-00-00-UfvLsr",
+      "kills": 1,
+      "knockdowns": 0,
+      "landed": "Bonsai Hillside",
+      "match_id": "2021-07-20-00-00/USOLATTE",
+      "placed": 3,
+      "player_name": "NelshyAN",
+      "rank": null,
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": 4,
+      "squadmate_names": [ "NelshyAN", null ],
+      "squadmates": [ "bangalore", null ],
+      "timestamp": 1626739208.38,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-20-00-00-UfvLsr.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 0,
+          "name": "Spitfire",
+          "time_held": 849.9
+        },
+        {
+          "knockdowns": 0,
+          "name": "EVA-8 Auto",
+          "time_held": 793.2
+        },
+        {
+          "knockdowns": 0,
+          "name": "Peacekeeper",
+          "time_held": 72.8
+        }
+      ]
+    },
+    {
+      "champion": "bangalore",
+      "drop_coordinates": [ 595, 465 ],
+      "duration": 935.27,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/19-23-26-hBPxyE7mP9eSq6opyhKP6Q.frames.json",
+      "key": "inf_super/2021-07-19-23-10-58b4fa",
+      "kills": 4,
+      "knockdowns": 5,
+      "landed": "Lagoon Crossing",
+      "match_id": "2021-07-19-23-10/NAIIUJXI",
+      "placed": 1,
+      "player_name": "INF_Super",
+      "rank": null,
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": null,
+      "squadmate_names": [ null, null ],
+      "squadmates": [ null, null ],
+      "timestamp": 1626736209.32,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-19-23-10-58b4fa.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 4,
+          "name": "EVA-8 Auto",
+          "time_held": 853.4
+        },
+        {
+          "knockdowns": 1,
+          "name": "R-301",
+          "time_held": 238.7
+        },
+        {
+          "knockdowns": 0,
+          "name": "P2020",
+          "time_held": 32.3
+        }
+      ]
+    },
+    {
+      "champion": "bangalore",
+      "drop_coordinates": [ 596, 464 ],
+      "duration": 269.41,
+      "frames_uri": "s3://overtrack-apex-frames/inf_super/2021-07/19-22-56-nZav2bsCcbXNFsydJRqNYM.frames.json",
+      "key": "inf_super/2021-07-19-22-51-RJ5pd8",
+      "kills": 1,
+      "knockdowns": 1,
+      "landed": "Lagoon Crossing",
+      "match_id": "2021-07-19-22-51/INFINF_SUPER",
+      "placed": 11,
+      "player_name": "INF_Super",
+      "rank": null,
+      "rings": [],
+      "scrims": null,
+      "season": 8,
+      "source": "OverTrack-client/2021-04-02-12-59-45",
+      "squad_kills": null,
+      "squadmate_names": [ null, null ],
+      "squadmates": [ null, null ],
+      "timestamp": 1626735090.07,
+      "url": "https://overtrack-apex-games.s3.amazonaws.com/inf_super/2021-07-19-22-51-RJ5pd8.json",
+      "user_id": -1001375984,
+      "weapons": [
+        {
+          "knockdowns": 1,
+          "name": "EVA-8 Auto",
+          "time_held": 193.7
+        },
+        {
+          "knockdowns": 0,
+          "name": "R-301",
+          "time_held": 157.4
+        },
+        {
+          "knockdowns": 0,
+          "name": "RE-45",
+          "time_held": 24.2
+        },
+        {
+          "knockdowns": 0,
+          "name": "P2020",
+          "time_held": 12.1
+        }
+      ]
+    }
+  ],
+  "last_evaluated_key": null,
+  "seasons": [ "Season 0", "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6", "Season 7", "Season 8", "Season 2 Solos", "Season 3 Duos", "Season 4 Duos", "Season 5 Duos", "Season 6 Duos" ]
+}
