@@ -1,6 +1,7 @@
 import json
 
-
+import pandas as pd
+from pandas.io.json import json_normalize
 
 ##this takes 2 files and adds them together
 
@@ -27,6 +28,12 @@ for a in data2['games']:
 
 
 print(data)
+
+with open('data.json') as json_data:
+    dt = json.load(json_data)
+
+df = pd.DataFrame(dt['games'])
+df.to_csv (r'data.csv', index = None)
 
 
 with open("out.json", "w") as outfile:
